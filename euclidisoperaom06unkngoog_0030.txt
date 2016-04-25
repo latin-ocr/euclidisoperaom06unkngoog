@@ -1,0 +1,46 @@
+ELEMENTORUM LIBER X. 17
+
+Ergo datis tribus magnitudinibus commensurabili·
+bus maxima mensura communis inuenta est.
+
+Corollarium.
+
+Hinc manifestum est, si magnitudo tres magnitu-
+dines metitur‚ eandem maximam earum mensuram
+communem metiri.
+
+Iam similiter etiam in pluribus maxima mensura
+communis sumetur, et corollarium quoque progredie-
+tur. — quod erat demonstrandum.
+
+V.
+
+Magnitudines commensurabiles inter se rationem .
+habent, quam numerus ad numerum.
+
+Sint magnitudines commensurabiles A, Β. dico, A
+ad Β rationem habere, quam habeat numerus ad nu-
+merum.
+
+Nam quoniam A,B commensurabiles sunt, magni· .
+tudo aliqua eas metietur. metiatur et sit Γ. et quoties
+Γ magnitudinem A metitur, totidem unitates sint in
+A, quoties autem Γ magnitudinem Β metitur, totidem
+unitates sint in E.
+
+iam quoniam Pmagnitudinem A secundum unitates
+numeri A metitur, sedetiam unitas numerum A se·
+
+A B Γ cundum unitates eius metitur,
+“¹4‘' '*'“' [Ἰ unitas numerum A etsmagni-
+
+ιμ’ A tudinem A aequaliter metitur.
+ΗΕ itaque FtA =1:A [VII
+def. 20]. e contrario igitur [V‚ 7 coroll] A :F=A: 1.
+rursus quoniam Γ magnitudinem Β secuudum uni·
+
+V. Alexander Aphrod. in Anal. pr. fol. 87.
+Euclides, edd. Heiberg et Menge. 111. ‘2
+
+ 
+

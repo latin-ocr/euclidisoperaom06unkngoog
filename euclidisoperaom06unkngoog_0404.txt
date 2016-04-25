@@ -1,0 +1,39 @@
+APPENDIX. 389
+
+quoniam ΔΕ --- ΒΖ, ei eadem aequiangula sunt, el
+parallelogrammorum aequalium el aequiangulorum
+latera angulos aequales comprehendentia in contraria
+proportione sunt [VI, 14], erit ΑΒεΓΔ = FE:AZ;
+quod erat demonstrandum.
+
+Ad libr. XOprop. 29.
+
+Lemma ad prop. XXIX.
+
+Datis duobus numeris et reeta oporteo efficere, ut
+sie, ui numerus ad numerum, ila quadratum reciae
+ad quadratum alius alieuius rectae.
+
+Sint duo numeri dati A, B, reeta
+autem Γ; et oportet efficere, quod
+propositum est. fiat enim A :B=F:A
+[prop. VI coroll.]‚ ei rectarum Γ, Α
+
+¹ media proportionalis sumaturE[VI,l3].
+iam quoniam est A:B=P:A,
+
+ΓεΛ---ΓῖεΕ2 [V def. 9], erit A:B=F2:u².
+
+Ad libr. {prop ξῙ.
+Lemma ad prop. XXXI.
+
+si duae reciae in ratione aliqua aunt, erit ut reeta
+ad rectam, ita rectiangulum duarum rectarum ad qua·
+dratum minimae.
+
+Duae igitur rectae A Β, ΒΓ in ratione aliqua sint.
+
+dico, esse AB : ΒΓ --· A Β >< ΒΓε Β 1⁷². describatur
+
+ 
+

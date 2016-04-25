@@ -1,0 +1,32 @@
+. mmmm. 391
+
+enim in ΒΓ quadratum ΒΔΕΓ, et
+expleatur parallelogrammum A Δ.
+manifestum igitur est, esse
+AB2BF= AA213E [v1‚ 1].
+el esi AA=AB><BF (nam BF=BA)‚ BE=BF20
+itaque erit ΑΒ : ΒΓ = AB >< ΒΓ : Bs23 quod erat
+demonstrandum.
+
+Ad libr. X2prop. 32.
+
+Lemma ad prop. XXXII.
+
+Si tres rectae in ratione aliqua sunt, erit ut prima
+ad tertiam, ita rectangulum primae ac mediae ad
+reetangulum mediae ac minimae.
+
+Tres rectae AB, ΒΓ, ΓΛ in ratione aliqua sint.
+dico, esse
+
+AB:PA=AB><BP:BF><FA.
+ducatur enim ab A punem ad AB perpendicularis
+ΑΕ, et ponatur AE=BF, el per E punctum rectae
+ΑΔ parallela ducatur ΕΚ, per
+Β P puncta aulem Β Γ, Λ rectae ΑΒ
+Ι--ΙΖ-Θ-Κ parallelae ducanl tur ΖΒ, ΓΘ, ΔΚ.
+etquoniam est AB: BF=AZ: ΒΘ
+[V1‚1]‚et:ssr FA=Bm2 ΓΚ [VI, 1]‚ ex aequo erit
+
+ 
+
